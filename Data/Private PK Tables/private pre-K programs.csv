@@ -1,0 +1,436 @@
+Row Number,School Name,Borough,Address,Postcode,Lat,Long,Neighborhood,Ages,Website
+1,14th Street Y Preschool,M,"344 East 14th Street, New York NY",10003,40.7312619,-73.9834162,East Village,2.4 years - 5,https://www.14streety.org/early-childhood/preschool/
+2,74th Street Magic,M,"510 E 74th St, New York NY",10021,40.7677601,-73.952096,Upper East Side,Infant - 13 years,http://www.74magic.com/
+3,92nd Street Y Nursery School,M,"1395 Lexington Avenue, New York NY",10128,40.7829293,-73.9524223,Upper East Side,2.6-5 years,http://www.92y.org/content/nursery_school.asp
+4,Abraham Joshua Heschel School,M,"30 West End Avenue, New York NY",10023,40.7725577,-73.9893848,Upper West Side,Nursery-Grade 12,http://www.heschel.org/
+5,ACADEMY OF ST DOROTHY,R,"1305 Hylan Blvd, Staten Island, NY",10305,40.5973856,-74.0865091,Staten Island,PreK - Grade 8,https://academyofstdorothy.org/
+6,Academy of St. Joseph,M,"111 Washington Place, New York NY",10014,40.7328006,-74.0009312,Greenwich Village,Pre K- Grade 3,http://www.academyofsaintjoseph.org/
+7,The Acorn School,M,"330 E 26th St, New York NY",10010,40.7392576,-73.9787819,Flatiron District,2-4 years,acornschoolny.com
+8,ADULTS AND CHILDREN IN TRUST (A.C.T.) PROGRAMS AT THE CATHEDRAL CHURCH OF ST. JOHN THE DIVINE,M,"1047 Amsterdam Ave, New York NY",10025,40.8038206,-73.9618358,Upper West Side,1 - 5 years,http://actprograms.org
+9,Ahi Ezer Yeshiva,K,"2433 Ocean Pkwy, Brooklyn, NY",11235,40.5902595,-73.9645679,Sheepshead Bay,,http://ahiezeryeshiva.org/index.php
+10,Aleph Bet Preschool of Murray Hill,M,"133 East 29th Street, New York NY",10016,40.7432193,-73.9814138,Murray Hill,2 - 4 years,http://alephbetny.com
+11,Alexander Robertson School,M,"3 West 95th Street, New York NY",10025,40.7912092,-73.9653891,Upper West Side,3 years- Grade 5,http://alexanderrobertson.org
+12,All Souls School,M,"1157 Lexington Avenue, New York NY",10075,40.7753752,-73.9581623,Upper East Side,2.5-5 years,http://allsoulsschoolnyc.org/
+13,Al Madrasa Al Islamiya,K,"5224 Third Avenue Brooklyn, NY",11220,40.6462903,-74.0164613,Sunset Park,4 years- Grade 8,http://www.almadrasanyc.com/
+14,Al-Ihsan Academy,Q,"130-08 Rockaway Blvd, South Ozone Park, NY",11420,40.6746348,-73.8081741,Ozone Park,4 years - Grade 12,http://ihsanacademy.org/Default.aspx
+15,Al-noor School,K,"675 4th Ave., Brooklyn, NY",11232,40.6629007,-73.9949859,Gowanus,4 years- Grade 8,
+16,A New Dawn Elementary School,Q,"8914 163rd St, Jamaica, NY",11432,40.7065343,-73.798149,Jamaica,2 - 4 years,
+17,Apple Tree Learning Academy,K,"440 E 48th St, Brooklyn, NY",11203,40.6510042,-73.9326066,East Flatbush,2-5 years,http://www.appletreela.com/
+18,Arc-En-Ciel,M,"1656 Third Avenue, New York, NY",10128,40.783204,-73.951119,Upper East Side,2 - 5 years,http://arcencielny.com
+19,Avenues,M,"536 West 26th Street, New York NY",10001,40.7502039,-74.004817,Chelsea,Pre K ,https://www.avenues.org/en/nyc/elc-and-co-lab/
+20,Bais Esther School,K,"1353 50th St, Brooklyn, NY",11219,40.6337427,-73.9912553,Borough Park,PreK - Grade 12,
+21,Bais Frima Chinuch Center,K,"1377 42 STREET, Brooklyn, NY",11219,40.6378624,-73.9859643,Kensington,2 - 5 years,
+22,Bais Rochel,K,"62 Harrison Ave, Brooklyn, NY",11211,40.7046644,-73.9523924,Williamsburg,PreK - Grade 12,https://www.niche.com/k12/bais-rochel-school-brooklyn-ny/
+23,BAIS YAAKOV ACADEMY FOR GIRLS,Q,"124-50 Metropolitan Ave, Kew Gardens, NY",11415,40.704427,-73.826914,Kew Gardens,PreK - Grade 8,https://www.niche.com/k12/bais-yaakov-academy-for-girls-new-york-city-ny/
+24,BAIS YAAKOV ATERES MIRIAM,Q,"1214 Heyson Rd, Far Rockaway, NY",11691,40.5963817,-73.7467744,Far Rockaway,PreK - Grade 3,http://www.baisyaakovam.org/
+25,Bais Yaakov of 18th Avenue,K,"4419 18th Ave, Brooklyn, NY",11204,40.6301927,-73.9776999,Borough Park,PreK - Grade 12,
+26,Bais Yaakov of Bensonhurst,K,"3901 14th Ave, Brooklyn, NY",11218,40.6391332,-73.9840449,Borough Park,PreK - Grade 12,
+27,Bais Yitzchak Yeshiva,K,"1413 45th St, Brooklyn, NY",11219,40.6358159,-73.9870088,Borough Park,PreK - Grade 12,
+28,Bank Street College School for Children,M,"610 West 112th Street, New York NY",10025,40.8055791,-73.9666112,Morningside Heights,Nursery-Grade 8,https://school.bankstreet.edu/programs/lower-school-nursery-k/pre-kindergarten-4-5s/
+29,Barkai Yeshivah,K,"5302 21st Avenue, Brooklyn NY",11204,40.6219243,-73.97708,Mapleton,Pre K - Grade 8,https://barkaiyeshivah.org/Default.aspx
+30,Barrow Street Nursery School,M,"27 Barrow Street, New York NY",10014,40.7322731,-74.0030659,Greenwich Village,2-5 years,http://www.greenwichhouse.org/nursery_school/index
+31,Basic Trust,M,"127 West 94th St., New York NY",10025,40.792209,-73.969421,Upper West Side,3 months-5 years,http://www.basictrust.org/
+32,Basis Independent Brooklyn,K,"556 Columbia Street, Brooklyn, NY",11231,40.6730919,-74.009029,Red Hook,3 - 5 years,https://brooklyn.basisindependent.com/programs/early-learning-program/
+33,Basis Independent Manhattan,M,"795 Columbus Avenue, New York, NY",10025,40.7944461,-73.9658766,Upper West Side,3 - 5 years,https://manhattan.basisindependent.com/programs/early-learning-program/
+34,Battery Park Montessori,M,"21 South End Ave, New York, NY",10280,40.7081329,-74.017798,Battery Park City,2 - 5 years,https://www.batteryparkmontessori.com/
+35,Battery Park City Day Nursery,M,"215 South End Ave, New York NY",10280,40.709587,-74.0168662,Battery Park City,Nursery,http://www.bpcdaynursery.com/
+36,Beansprouts Nursery School,K,"453 6th Avenue, Brooklyn NY",11215,40.6675596,-73.9840246,Park Slope,1.9 - ?,http://www.beansproutsnurseryschool.com/
+37,Be’er Miriam,K,"287 Heyward Street, Brooklyn, NY",11206,40.705309,-73.951222,Williamsburg,Pre K- Grade 5,
+38,Be’ikvei Hatzoin School,K,"31 DIVISION AVENUE, Brooklyn, NY",11249,40.7070087,-73.9681724,Williamsburg,2 - 5 years,
+39,Beit Rabban Day School,M,"15 W 86th St, New York NY",10024,40.7858447,-73.9700779,Upper West Side,3 - 5 years,http://www.beitrabban.org/education/early-childhood-gan/
+40,Beginnings Nursery & Toddler Program,M,"130 East 16th Street, New York NY",10003,40.734927,-73.9873417,Flatiron District,2-5 years,http://beginningsnursery.net/Home.aspx
+41,Berkeley Carroll School,K,"701 Carroll Street, Brooklyn NY",11217,40.674051,-73.9779112,Park Slope,PreK- Grade 12,http://www.berkeleycarroll.org/
+42,Beth Chana School,K,"712 Bedford Ave, Brooklyn, NY",11206,40.699509,-73.957447,Williamsburg,PreK - Grade 12,https://www.trulia.com/schools/NY-brooklyn-beth_chana_school-5700119905
+43,Beth Jacob Day School,K,"85 Parkville Ave, Brooklyn, NY",11230,40.6294305,-73.9747878,Kensington,Pre K - Grade 8,https://nces.ed.gov/surveys/pss/privateschoolsearch/school_detail.asp?Search=1&Zip=11230&Miles=5&ID=00938749
+44,Bethel SDA Elementary School,K,"457 Grand Ave Brooklyn, NY",11238,40.6817751,-73.961273,Clinton Hill,Pre K - Grade 8,http://www.betheladventist.org/
+45,School of the Blessed Sacrament,M,"147 W 70th Street, New York NY",10023,40.7769787,-73.9812571,Upper West Side,PreK-Grade 8,http://www.sblsnyc.org/
+46,The Blue School,M,"241 WATER STREET, New York NY",10038,40.7077717,-74.002538,Financial District,2 - 4 years,https://www.blueschool.org/
+47,Bloomingdale Family Program,M,"125 West 109th Street, New York NY",10025,40.8020493,-73.9629378,Upper West Side,3-4 years,https://bloomingdalefamilyprogram.org/
+48,BNOS BAIS YAAKOV OF FAR ROCKAWAY,Q,"613 Beach 9th St, Far Rockaway, NY",11691,40.601343,-73.7453126,Far Rockaway,PreK - Grade 12,https://www.bbyschool.org/
+49,Bnos Margulia Viznitz,K,"4022 New Utrecht Ave, Brooklyn, NY",11219,40.643912,-73.9943163,Borough Park,PreK - Grade 12,https://www.niche.com/k12/bnos-margulia-viznitz-brooklyn-ny/
+50,Bnos Menachem,K,"739 East New York Avenue, Brooklyn, NY",11203,40.6625436,-73.9380487,Crown Heights,PreK- Grade 12,https://www.bnosmenachem.org/
+51,Bnos Spinka,K,"127 Wallabout St, Brooklyn, NY",11206,40.7001341,-73.9551316,Williamsburg,Pre K - Grade 8,
+52,Bnos Zion of Bobov,K,"5000 14th Ave, Brooklyn, NY",11219,40.6330966,-73.9909457,Borough Park,PreK - Grade 12,https://www.niche.com/k12/bnos-zion-of-bobov-brooklyn-ny/
+53,Brick Church School,M,"62 East 92nd Street, New York NY",10128,40.7841247,-73.9551316,Upper East Side,3-6 years,http://www.brickchurchschool.org/
+54,Bright Horizons,M,"410 Park Ave, New York, NY",10022,40.7602961,-73.9721901,Midtown,Infants-PreK,
+55,Bright Horizons,M,"745 7th Ave, New York NY",10019,40.7604814,-73.9831407,Midtown,Infants-PreK,
+56,Bright Horizons,M,"200 Park Ave # 9NE, New York NY",10166,40.7533488,-73.9766668,Midtown,Infants-PreK,
+57,Bright Horizons,M,"600 5th Ave, New York NY",10020,40.7576495,-73.9783318,Midtown,Infants-PreK,
+58,Bright Horizons at Kent Avenue,K,"175 Kent Avenue, Brooklyn, NY",11211,40.7179382,-73.9637027,Williamsburg,Infants-PreK,
+59,Bright Horizons at Lexington,M,"575 Lexington Ave, New York NY",10022,40.7573356,-73.9715375,Midtown,Infants-PreK,
+60,Bright Horizons at Long Island City,Q,"42-09 28th Street, Long Island City, NY",11101,40.749352,-73.939059,Long Island City,Infants-PreK,
+61,Bright Horizons at Columbus Circle,M,"910 9th Ave, New York NY",10019,40.768788,-73.9847631,Midtown West,Infants-PreK,
+62,Bright Horizons at Chelsea,M,"258 W 26th St, New York NY",10001,40.7469206,-73.9968782,Chelsea,Infants-PreK,
+63,Bright Horizons at E46th St,M,"127 E 46th St, New York NY",10017,40.7538188,-73.9732642,Midtown East,Infants-PreK,
+64,Bright Horizons at Hudson Yards,M,"529A W 29th St, New York NY",10001,40.752326,-74.0030116,Hudson Yards,Infants-PreK,
+65,Bright Horizons at Times Square,M,"4 Times Square, New York NY",10044,40.756097,-73.9858453,Midtown,Infants-PreK,
+66,Bright Horizons at Tribeca,M,"129 Hudson Street, New York, NY",10013,40.7204271,-74.0088503,Tribeca,Infants-PreK,
+67,Bright Horizons at W 89th Street,M,"100A West 89th Street, New York, NY",10024,40.7884036,-73.9711547,Upper West Side,Infants-PreK,
+68,Bright Horizons at W 96th Street,M,"103 W 96th St, New York NY",10025,40.7932678,-73.9679352,Upper West Side,Infants-PreK,https://child-care-preschool.brighthorizons.com/ny/newyork/west96th?utm_source=GMB_yext&utm_medium=GMBdirectory&utm_campaign=yext&IMS_SOURCE_SPECIFY=GMB
+69,Bright Horizons at Midtown West,M,"406 W 55th St, New York NY",10019,40.7667755,-73.9874458,Hell’s Kitchen,Infants-PreK,https://child-care-preschool.brighthorizons.com/ny/newyork/midtownwest?utm_source=yextCTA&utm_medium=directory&utm_campaign=yextCTA_1474&IMS_SOURCE_SPECIFY=Yext
+70,Bright Horizons at New York Hospital - Midtown,M,"435 E 70th St, New York NY",10021,40.7659324,-73.955058,Upper East Side,Infants-PreK,https://child-care-preschool.brighthorizons.com/ny/newyork/nyh
+71,Bright Horizons at New York Hospital - Uptown,M,"61 Haven Ave, New York NY",10032,40.8434716,-73.942664,Washington Heights,Infants-PreK,http://centers.brighthorizons.com/nypres/
+72,Bright Horizons at the Octagon,M,"888 Main Street, Roosevelt Island, NY",10044,40.7687205,-73.9439269,Roosevelt Island,Infant-PreK,
+73,British International School of New York,M,"20 Waterside Plaza, New York NY",10010,40.7368664,-73.972711,Stuyvesant Town/Peter Cooper Village,Nursery- Grade 9,http://www.britishinternationalschoolny.org/
+74,Broadway Presbyterian Church Nursery School,M,"601 West 114th St., New York NY",10025,40.8070418,-73.9651341,Morningside Heights,2 - 5 years,http://greatlittleschool.com
+75,Brooklyn Free School,K,"372 Clinton Avenue, Brooklyn, NY",11238,40.6870813,-73.9680702,Clinton Hill,4 years - Grade 12,https://www.brooklynfreeschool.org/
+76,Brooklyn Friends School,K,"375 Pearl Street, Brooklyn NY",11201,40.6927793,-73.9879469,Downtown Brooklyn,PreK - Grade 12,http://www.brooklynfriends.org/admissions
+77,Brooklyn Heights Montessori,K,"185 Court Street, Brooklyn NY",11201,40.687912,-73.9927133,Brooklyn Heights,Preschool-Grade 8,http://www.bhmsny.org/
+78,Brooklyn Heights Synagogue School,K,"131 Remsen Street, Brooklyn NY",11201,40.6939433,-73.9931495,Brooklyn Heights,2 - 5 years,http://bhsbrooklyn.org
+79,Brooklyn Preparatory School,K,"12020 Flatlands Avenue, Brooklyn, NY",11207,40.651026,-73.8884826,East New York,,http://bpsonline.org/
+80,Brooklyn Preschool of Science,K,"11 WYCKOFF STREET, Brooklyn NY",11201,40.6870754,-73.9930806,Cobble Hill,2 - 4 years,http://brooklynpreschoolofscience.com/
+81,Brooklyn Preschool of Science,K,"65 PARK PLACE, Brooklyn NY",11217,40.679163,-73.9761808,Park Slope,2 - 4 years,http://brooklynpreschoolofscience.com/
+82,Brooklyn Preschool of Science,K,"78 AMITY STREET, Brooklyn NY",11201,40.689575,-73.998278,Brooklyn Heights,2 - 4 years,http://brooklynpreschoolofscience.com/
+83,Brooklyn Seventh-Day Adventist School,K,"1260 Ocean Ave, Brooklyn, NY",11230,40.6314366,-73.9578638,West Midwood,Pre K - Grade 8,https://www.bklynsdagnyc.org/
+84,Brooklyn Waldorf School,K,"11 Jefferson Avenue, Brooklyn, NY",11238,40.6826635,-73.9572439,Bedford-Stuyvesant,Pre K - Grade 8,https://www.brooklynwaldorf.org/
+85,Brotherhood Synagogue Nursery School,M,"28 Gramercy Park South, New York NY",10003,40.7370179,-73.9853445,Gramercy Park/Kipps Bay,2 - 5 years,http://nursery.brotherhoodsynagogue.org
+86,Brownstone School,M,"128 West 80th Street, New York NY",10024,40.7830306,-73.9764028,Upper West Side,2-5 years,http://www.brownstoneschool.com/
+87,Buckle My Shoe,M,"40 Worth Street, New York NY",10013,40.7171363,-74.006901,Tribeca,3 months-5 years,http://www.bucklemyshoe.org/
+88,Buckle My Shoe,M,"230 W. 13th Street, New York NY",10011,40.7383616,-74.0017575,West Village,3 months-5 years,http://www.bucklemyshoe.org/
+89,BUILDING BLOCKS SCHOOL,R,"55 Forest Ave, Staten Island, NY",10301,40.6312106,-74.0909143,Staten Island,3 - 5 years,https://www.buildingblocksmontessori.com/lower-school-programs
+90,Caedmon School,M,"416 E. 80th Street, New York NY",10075,40.7724796,-73.9513662,Upper East Side,2.9 years-Grade 5,http://caedmonschool.org/
+91,"Calhoun School, Lower",M,"160 West 74th Street, New York NY",10024,40.7794746,-73.9800874,Upper West Side,3 years- Grade 4,http://www.calhoun.org/
+92,Cardinal Spellman Head Start,M,"137 E 2nd St, New York NY",10009,40.7230138,-73.9863775,East Village,3 - 5 years,http://www.headstartprogram.us/program/cardinal-spellman-head-start
+93,Cathedral School,M,"319 E 74TH ST, New York NY",10021,40.7699183,-73.9561419,Upper East Side,2 years-Grade 8,http://www.cathedralschoolny.org/apps/pages/index.jsp?uREC_ID=1097377&type=d&pREC_ID=1381364
+94,(Esther Ashkensas) Central Park Early Learning Center,M,"450 W 56th Street, New York NY",10019,40.767876,-73.9887912,Upper West Side,3 - 5 years,https://www.ahrcnyc.org/locations/esther-ashkenaearning-center/
+95,Central Park Montessori School,M,"1 West 91st Street, New York NY",10024,40.7887664,-73.9674396,Upper West Side,2.8 - 5 years,https://www.twinparks.org/central-park-montessori-school
+96,May Family Nursery School at Central Synagogue,M,"123 East 55th Street, New York NY",10022,40.7600613,-73.9705371,East 40s and 50s,2 - 5 years,http://www.centralsynagogue.org/
+97,CHABAD ACADEMY OF ARTS AND SCIENCES,Q,"212-12 26th Ave, Bayside, NY",11360,40.7780367,-73.7772639,Bayside,PreK - Grade 8,https://www.chabadnequeens.com/
+98,Chabad Early Learning Center,M,"166 West 97th Street, New York NY",10025,40.7943165,-73.9693486,Upper West Side,2 - 5 years,https://www.chabadelc.com/
+99,Chabad Preschool,M,"419 East 77th St., New York NY",10075,40.770877,-73.9527782,Upper East Side,2 - 4 years,http://www.chabaduppereastside.com/pages/Preschool.html
+100,Charles Churn Christian Academy,K,"113 Osborn Street, Brooklyn, NY",11212,40.6696894,-73.9086494,Brownsville,PreK - Grade 12,https://charleschurnchristianacademy.org/services.html
+101,Chelsea Day School,M,"319 Fifth Avenue, New York NY",10016,40.7471184,-73.9850482,Chelsea,2-5 years,http://chelseadayschool.org/
+102,Chelsea Piers Kids Preschool Program,M,"Pier 62, New York NY",10011,40.7487678,-74.0107952,Chelsea,2.7 - 5 years,https://www.chelseapiers.com/cpkids/preschool-program/overview/
+103,Children's Learning Center,M,"90 La Salle St, New York NY",10027,40.8130022,-73.9586215,Morningside Heights,6 months- 4 years,http://www.clcnyc.com/
+104,Children's International Workshop,M,"17 E 16th St, New York NY",10003,40.7369864,-73.991442,Flatiron District,2-5 years,http://childrensinternationalworkshop.com/
+105,Children's All Day School and Pre-Nursery,M,"109 East 60th Street, New York NY",10022,40.7634744,-73.968724,Upper East Side,6 months-5 years,http://www.childrensallday.org/
+106,Choo Choo Train Daycare Center,K,"539 Court Street, Brooklyn NY",11231,40.6743375,-73.9994924,Red Hook,2.8 - 5 years,http://choochootraindaycare.com/
+107,Christ Church Day School,M,"524 Park Avenue, New York NY",10065,40.7638893,-73.9696417,Upper East Side,2-5 years,http://www.christchurchnyc.org/day&school.htm
+108,Christian Heritage Academy,K,"1100 East 42nd Street, Brooklyn, NY",11210,40.6281167,-73.9358099,Flatlands,2 - Grade 12,http://www.cha-ny.org/
+109,Church of the Epiphany Day School,M,"1393 York Ave, New York NY",10021,40.7684871,-73.9529963,Upper East Side,2-5 years,http://www.epiphanynyc.org/day-school
+110,City & Country School,M,"146 W 13th Street, New York NY",10011,40.7373347,-73.9994162,Greenwich Village,2-13 years,http://cityandcountry.org/
+111,City of Faith Christian School,X,"3445 White Plains Rd, Bronx, NY",10467,40.8766392,-73.8673131,Williamsbridge,,http://www.cityoffaithchristianschool.org/
+112,Clara Mohammed School,M,"102 West 116th Street, New York, NY",10026,40.8019977,-73.9502411,Harlem,2 - Grade 3,http://nycmschools.com/
+113,Columbia Grammar and Prep School,M,"5 West 93rd Street, New York NY",10025,40.79018,-73.9667949,Upper West Side,PreK-Grade 12,http://cgps.org/
+114,Columbia Greenhouse Nursery School,M,"404 W. 116TH STREET, New York NY",10027,40.806069,-73.960014,Morningside Heights,2-5 years,http://columbiagreenhouse.com/
+115,Columbus Park West Nursery School,M,"100 W 94th Street, New York NY",10025,40.7915239,-73.969067,Upper West Side,3-5 years,http://www.isaagny.org/school_directory/index.aspx?LinkID=22356/
+116,Columbus Preschool,M,"606 Columbus Ave, New York NY",10025,40.788786,-73.9709158,Upper West Side,,http://www.columbuspre-school.com/HOME.html
+117,Tiferes Bnos/Cong Ahavaz Shulem Nadverna,K,"826 Myrtle Ave, Brooklyn, NY",11219,40.6952906,-73.948886,Bushwick,PreK - Grade 12,https://www.niche.com/k12/tiferes-bnos-cong-ahavaz-shulem-nadverna-brooklyn-ny/
+118,Congregation Machna Shalva,K,"4820 16th Ave, Brooklyn, NY",11204,40.63131,-73.985534,Kensington,PreK - Grade 12,
+119,Congregation Ohr Menachem,K,"1729 President St, Brooklyn, NY",1213,40.6671717,-73.929633,Crown Heights,Pre K - Grade 7,https://www.niche.com/k12/congregation-ohr-menachem-brooklyn-ny/
+120,Convent of the Sacred Heart (NYC),M,"1 EAST 91ST STREET, New York NY",10128,40.7846484,-73.9576799,Upper East Side,PreK-Grade 12,http://www.cshnyc.org/
+121,The Co-op School,K,"40 Brevoort Place, Brooklyn, NY",11216,40.6799437,-73.9538571,Bedford-Stuyvesant,Pre K - Grade 8,https://thecoopschool.org/
+122,Corlears School,M,"324 W 15th Street, New York NY",10011,40.7407704,-74.0032266,Chelsea,2-10 years,http://www.corlearsschool.org/
+123,Corpus Christi School,M,"529 West 121st Street, New York NY",10027,40.8110664,-73.9607802,Morningside Heights,PreK-Grade 8,http://www.corpus-christi-nyc.org/
+124,Danielle’s Educating for the Future,K,"144 E 56th St, Brooklyn",11203,40.6534815,-73.9250288,Brownsville,Pre K ,https://www.facebook.com/Danielles-Educating-for-the-Future-109030448951/
+125,Darkei Chaim,K,"1270 52nd St, Brooklyn, NY",11219,40.633477,-73.9945153,Borough Park,PreK-Grade 4,https://www.niche.com/k12/darkei-chaim-brooklyn-ny/
+126,The Day School at Christ and St. Stephen’s,M,"122 West 69th Street, New York NY",10023,40.775684,-73.981288,Upper West Side,2 - 4 years,http://www.thedayschoolatcss.org/about-the-school/
+127,"Discovery Programs, Inc.",M,"251 W 100th St, New York NY",10025,40.7978634,-73.9709274,Upper West Side,19 months-4 years,http://discoveryprograms.com/
+128,Dillon Child Study Center at St. Joseph’s University,K,"239 Vanderbilt Ave, New York NY",11205,40.6907605,-73.9690907,Clinton Hill,3 - 5 years,https://dillon.sjcny.edu/
+129,"Downtown Little School, The",M,"15 Dutch Street, New York NY",10038,40.7096014,-74.0073806,Battery Park City,2-5 years,https://www.downtownlittleschool.org/
+130,The Downing Street Play Group,M,"32 CARMINE STREET, New York NY",10014,40.7300239,-74.0029378,Greenwich Village,2 - 4 years,https://www.downingstreetplaygroup.org/
+131,The Dwight School,M,"144 Riverside Blvd, New York NY",10069,40.777221,-73.9886011,Upper West Side,2 - 5 years,https://www.dwight.edu/preschool-kindergarten
+132,Ebenezer Preparatory School,K,"5464 Kings Hwy, Brooklyn, NY",11203,40.6418634,-73.9258326,East Flatbush,Pre K - Grade 8,https://www.niche.com/k12/ebenezer-preparatory-school-brooklyn-ny/
+133,École Internationale de New York,M,"111 E 22nd Street, New York NY",10010,40.7394159,-73.9860561,Flatiron District,Nursery- Grade 5,http://www.einy.org/
+134,Elements Preschool,M,"99 Suffolk Street, New York NY",10002,40.7187338,-73.9864234,Lower East Side,2 - 5.9 years,http://elementspreschool.com/
+135,ELISHAMA CHILDREN'S PREP SCHOOL,Q,"206-18 Hollis Ave, Queens Village, NY",11429,40.7072657,-73.7503139,Hollis,Prek - Grade 2,https://www.trulia.com/schools/NY-queens_village-elishama_childrens_prep_school-5700055269
+136,ELTINGVILLE LUTHERAN SCHOOL,R,"300 Genesee Ave, Staten Island, NY",10312,40.5525865,-74.1666816,Staten Island,PreK - Grade 8,http://eltingvillelutheranschool.org/
+137,The Episcopal School,M,"35 E 69th Street, New York NY",10021,40.7695997,-73.9657732,Upper East Side,2.5-5 years,https://www.episcopalschool.org/page
+138,Epiphany Catholic School,M,"234 East 22nd Street, New York NY",10010,40.7373434,-73.9820617,Flatiron District,PreK-Grade 3,http://theepiphanyschool.org/
+139,Epiphany Community Nursery School,M,"510 East 74th St. New York, NY",10021,40.7677601,-73.952096,Upper East Side,2-5 years,https://www.ecnsnyc.org/
+140,Ethical Culture Fieldston School,X,"3901 FIELDSTON ROAD, BRONX, NY",10471,40.8891752,-73.9063937,Riverdale BX,PreK-Grade 12,http://www.ecfs.org/
+141,EVANGEL CHRISTIAN SCHOOL,Q,"39-21 Crescent St, Long Island City, NY",11101,40.7542097,-73.9371118,Long Island City,PreK - Grade 12,http://www.evangelchristianschool.org/preschool.php
+142,Everbrook Academy of Manhattan,M,"225 E 38th St, New York, NY",10016,40.7479232,-73.9751516,Midtown East,2 - 5 years,https://www.everbrookacademy.com/our-schools/manhattan-ny-6538/?gclid=Cj0KCQjwk_TbBRDsARIsAALJSOZ9U4wP48Tc5nqQvG-Vaju-9OV6eqJ_Cw2ndR13Cna4CGKFkmrIUO8aAviLEALw_wcB&keyword=%2Bearly%20%2Bchildhood%20%2Bcenter&ef_id=WJvIEQAABejC9wuQ:20180822110445:s
+143,Evolution Enrichment Center,M,"38 Delancey Street, New York, NY",10002,40.7199368,-73.9917721,Lower East Side,2 - 5 years,https://www.evolutionenrichment.com/
+144,Faith Christian Academy,X,"1137 E. 223rd Street, Bronx, NY",10466,40.8825626,-73.8488671,Olinville,,http://www.faithchristianacad.com/Home_Page.php
+145,The Family School,M,"323 E 47th St, New York, NY",10017,40.7526604,-73.968425,Midtown East,2 - Grade 6,https://www.trulia.com/schools/NY-new_york-the_family_school-5700080571
+146,Fedkids Childcare Center,M,"26 Federal Plaza, Room 110, New York, NY",10278,40.7154857,-74.0041471,Tribeca,Infants-PreK,
+147,French Institute Alliance Francaise Preschool,M,"22 East 60th Street, New York, NY",10022,40.7638132,-73.9703952,Upper East Side,3 - 4 years,http://www.fiafpreschool.org/
+148,The First Presbyterian Church Nursery School,M,"12 West 12th Street, New York, NY",10011,40.734504,-73.995177,Greenwich Village,2 - 5.6 years,http://www.fpcns.org/
+149,FOREST HILLS MONTESSORI SCHOOL,Q,"67-04 Austin St, Forest Hills, NY",11375,40.7239007,-73.855529,Forest Hills,3 - 12 years,https://fhmontessorischool.com/
+150,Gan Aliya ,M,"270 W 84th St, New York, NY",10024,40.7871155,-73.9784804,Upper West Side,3-6 years,http://www.ganaliya.org/
+151,Garden House School of New York 1,M,"40 Sutton Place, New York, NY",10065,40.7613202,-73.9577821,Upper East Side,2.5-6 years,http://www.gardenhouseschool.com/home_BM.html
+152,Garden House School of New York 2,M,"37 East 63rd Street, New York, NY",10022,40.7659499,-73.968654,Midtown,2.5-6 years,http://www.gardenhouseschool.com/home_NY.html
+153,Garden School,Q,"33-16 79th Street, Jackson Heights, NY",11372,40.7543703,-73.8885343,Jackson Heights,Nursery (1.9) through 12,www.gardenschool.org
+154,The Garvey School,X,"950 Baychester Ave, Bronx, NY",10475,40.8779511,-73.8329466,Eastchester,Nursery (1.9) through Grade 6,http://www.garveyschool.org/
+155,Geneva School of Manhattan,M,"138 W 90 St, New York, NY",10024,40.789644,-73.97233,Upper West Side,PreK-Grade 8,http://www.genevaschool.net/
+156,Geneva School of Manhattan,M,"593 Park Ave, New York, NY",10065,40.7656561,-73.967277,Upper East Side,PreK,http://www.genevaschool.net/
+157,Gillen Brewer School,M,"410 East 92nd Street New York, NY",10128,40.7801725,-73.9459245,Upper East Side,Pre K- Grade 5,https://www.gillenbrewer.com/
+158,The Goddard School,M,"751 2nd Avenue, New York, NY",10017,40.7489394,-73.973072,Murray Hill,2 - 5 years,http://www.goddardschool.com/
+159,The Goddard School,M,"2495 Broadway, New York, NY",10025,40.7927269,-73.9737163,Upper West Side,2 - 5 years,http://www.goddardschool.com/
+160,The Goddard School,M,"1725 York Avenue, New York, NY",10128,40.7782664,-73.9459474,Upper East Side,2 - 5 years,http://www.goddardschool.com/
+161,Good Shepherd Early Childhood Center,K,"1943 Brown Street, Brooklyn, NY",11229,40.6044033,-73.9403449,Marine Park,,www.goodshepherdbklyn.org
+162,Grace Church School (NYC),M,"254 Hicks Street, Brooklyn NY",10003,40.6939159,-73.9968659,East Village,PreK-Grade 8,http://www.gcschool.org/
+163,Greene Hill School,K,"39 Adelphi Street, Brooklyn, NY",11205,40.6968799,-73.9723278,Fort Greene,PreK - Grade 8,https://greenehillschool.org/
+164,Guardian Angel School,M,"193 Tenth Avenue, New York, NY",10011,40.7468512,-74.0051577,Chelsea,Pre-K - Grade 8,http://www.guardianangelschool-nyc.org/
+165,Gymtime Rhythm and Glues (York Avenue Preschool),M,"1520 York Avenue, New York, NY",10028,40.7722533,-73.9493686,Upper East Side,2-4 years,http://www.gymtime.net/
+166,The Nursery School at Habonim,M,"103 West End Ave, New York, NY",10023,40.7750372,-73.9881811,Upper West Side,2.6-6 years,http://www.isaagny.org/school_directory/index.aspx?LinkID=22440
+167,Hanson Place SDA School,K,"38 Lafayette Avenue, Brooklyn, NY",11217,40.6867307,-73.9771719,Fort Greene,Pre K - Grade 8,http://hpsdaschool.org/
+168,Harvest Preparatory Academy,X,"4036 White Plains Rd, Bronx, NY",10466,40.8895823,-73.8591929,Wakefield,,
+169,Hollingworth Preschool,M,"525 W 120th St #309, New York, NY",10025,40.8101745,-73.9606229,Morningside Heights,3 - 5 years,https://www.tc.columbia.edu/hollingworth/preschool/
+170,Holy Angels Catholic Academy,K,"337 74th Street, Brooklyn, NY",11209,40.6320693,-74.0262942,Bay Ridge,Pre K - Grade 8,https://holyangelsbayridge.org/classes/pre-k/
+171,HOLY CROSS GREEK ORTHODOX SCHOOL,Q,"12-03 150th St, Whitestone, NY",11357,40.7905457,-73.8140871,Whitestone,Nursery - Grade 5,http://www.holycrossgreekschool.com/classes/pre-k/
+172,HOLY FAMILY CATHOLIC ACADEMY,Q,"74-15 175th St, Fresh Meadows, NY",11366,40.7285254,-73.7945265,Fresh Meadows,PreK3 - Grade 8,https://holyfamilyca-freshmeadows.org/
+173,HOLY MARTYRS ARMENIAN DAY SCHOOL,Q,"209-15 Horace Harding Expwy, Oakland Gardens, NY",11364,40.74648,-73.767476,Oakland Gardens,Nursery - Grade 6,http://www.hmads.org/
+174,HOLY TRINITY CATHOLIC ACADEMY,Q,"14-45 143rd St, Whitestone, NY",11357,40.7858779,-73.8254109,Whitestone,PreK - Grade 8,http://www.holytrinitywhitestone.com/
+175,Horace Mann School,X,"231 W 246th St, Bronx, NY",10471,40.8938112,-73.8979559,Upper East Side/Riverdale/Kingside,3 years-Grade 12,http://www.horacemann.org/
+176,House of Little People,M,"122 E 91st St, New York, NY",10128,40.7827672,-73.9539262,Upper East Side,Infant-PreK,http://www.thehouseoflittlepeople.org/
+177,Hudsonway Immersion School,M,"75 Riverside Blvd, New York, NY",10069,40.774506,-73.9914206,Upper West Side,2 - 5 years,https://hwis.org/dayschool/preschool/
+178,Hunter College Elementary School,M,"71 E 94th St, New York, NY",10128,40.7859415,-73.9540755,Upper East Side,PreK-Grade 6,http://www.hunterschools.org/es/home
+179,IDEAL ISLAMIC SCHOOL,Q,"31-29 12th St, Long Island City, NY",11106,40.7679797,-73.933861,Long Island City,PreK - Grade 7,http://idealislamicschool.org/home
+180,IDEAL MONTESSORI SCHOOL,Q,"87-41 165th St, Jamaica, NY",11432,40.7096355,-73.7977698,Jamaica,PreK - Grade 8,https://www.niche.com/k12/ideal-montessori-school-jamaica-ny/
+181,Imagine Early Learning Center - DUMBO,K,"85 Adams St, Brooklyn, NY",11201,40.7017361,-73.9883058,Brooklyn Heights,2 months-5 years,http://imagineelc.com/
+182,IMMACULATE CONCEPTION CATHOLIC ACAD,Q,"179-14 Dalny Rd, Jamaica Estates, NY",11432,40.7159462,-73.7848786,Jamaica Estates,PreK3 - Grade 8,http://iccajamaica.org/icca/
+183,Immaculate Conception School,M,"419 E 13th St, New York, NY",10009,40.7307194,-73.9823142,East Village,PreK-Grade 8,http://www.immaculateconceptionschoolnyc.org/
+184,Immaculate Conception School - South Bronx,X,"378 East 151st Street, Bronx, NY",10455,40.8175512,-73.9180249,South Bronx,PreK - Grade 8,http://www.icsfamily.org/student-life/academics/early-childhood-education/
+185,Immaculate Conception School - Williamsbridge,X,"760 E Gun Hill Rd, Bronx, NY",10467,40.8762803,-73.8637297,Williamsbridge,Pre-K - Grade 8,https://schoolofimmaculateconception.org/
+186,International Academy of New York,M,"150 West 83rd Street, New York, NY",10024,40.7851428,-73.9757256,Upper West Side,3 - 5 years,https://www.ianyc.org/about.html
+187,International Preschools (E. 45th St.),M,"330 E 45th St, New York, NY",10017,40.7510852,-73.9695891,East 40s and 50s,Infant-K,https://www.ipsnyc.org/
+188,International Preschools (Upper West 76th St.),M,"Address: 120 W 76th St, New York, NY",10023,40.7803034,-73.978182,Upper West Side,Infant-K,https://www.ipsnyc.org/
+189,International Preschools (E. 86th Street),M,"345 East 86th St, New York, NY",10028,40.7773757,-73.9499885,East 80s and 90s,Infant-K,https://www.ipsnyc.org/
+190,International School of Brooklyn,K,"477 Court St., Brooklyn, NY",11231,40.676527,-73.9982685,Carroll Gardens,3 years - Grade 3,http://isbrooklyn.org/programs/lower-school/nursery-pre-kindergarten/
+191,Islamic Cultural Center School,M,"1711 3rd Ave New York, NY",10029,40.7855765,-73.9485819,Upper East Side,2.6 - 5 years,http://icc-ny.us/school/Early%20Learners.html
+192,The Jack and Jill School,M,"61 Gramercy Park N, New York, NY",10003,40.7389232,-73.9867528,Flatiron District,2.5 - 5.5 years,https://www.thejackandjillschool.org/
+193,JAMAICA SDA-BUSY BEE LEARNING CTR,Q,"88-28 163rd St, Jamaica, NY",11432,40.7078244,-73.7990254,Jamaica,PreK - Grade 8,https://www.niche.com/k12/jamaica-seventh-day-adventist-elementary-busy-bee-learning-center-jamaica-ny/
+194,JCC in Manhattan (The Saul & Carole Zabar Nursery School),M,"334 AMSTERDAM AVE, NEW YORK, NY",10023,40.7811304,-73.9802022,Upper West Side,2 years- PreK,http://nurseryschool.jccmanhattan.org/
+195,Jewish Community Project Preschool,M,"146 Duane St # A, New York, NY",10013,40.7162066,-74.0080928,Tribeca,2-5 years,https://jcpdowntown.org/early-childhood/preschool/
+196,JEWISH FOUNDATION SCHOOL,R,"400 Caswell Ave, Staten Island, NY",10314,40.6144479,-74.1503287,Staten Island,Nursery - Grade 8,https://jfssi.org/about
+197,Just Wee Two,K,"111 Remsen Street, Brooklyn, NY",11201,40.6942021,-73.993884,Brooklyn Heights,Toddlers,http://www.justweetwo.com/
+198,Just Wee Two,Q,"1300 209th Street, Bayside, NY",11360,40.7881224,-73.7841432,Bayside,Toddlers,http://www.justweetwo.com/
+199,Kaplan Nursery School,M,"225 E 51 Street, New York, NY",10022,40.7561705,-73.9690907,East 40s and 50s,2 - 5 years,http://www.spsnyc.org/kaplan-nursery-school
+200,The Kew-Forest School,Q,"119-17 Union Tpke, Forest Hills, NY",11375,40.7135585,-73.8333142,Kew Gardens/Forest Hills,3 - 5 years,https://www.kewforest.org/page/about
+201,Kid's Korner Pre-School,M,"247 W 24th St, New York, NY",10011,40.7457594,-73.9970289,Chelsea,2-5 years,http://www.thekidskornerpreschool.com/
+202,Kinneret Day School,X,"2600 Netherland Avenue, Riverdale, NY",10463,40.8786721,-73.9147998,Riverdale,3 - 5 years,http://kinneretdayschool.org/about-us/early-childhood/
+203,Kollel Zichron Yosef Preschool,K,"1358 56th St, Brooklyn, NY",11219,40.6301543,-73.9951854,Borough Park,2 - 5 years,
+204,La Escuelita School,M,"225 W 99th St, New York, NY",10025,40.7962913,-73.9690907,Upper West Side,2-5 years,http://laescuelitanyc.org/
+205,La Scuola D’Italia Guglielmo Marconi,M,"12 E 96th St, New York, NY",10128,40.7872904,-73.9550168,Upper East Side,PreK-Grade 12,http://www.lascuoladitalia.org/
+206,LEARNING TREE MULTI-CULTURAL SCHOOL,Q,"103-02 Northern Blvd, Corona, NY",11368,40.7574034,-73.8654238,Corona,PreK - Grade 8,http://tltstemarts.org/
+207,Lefferts Gardens Montessori,K,"527 Rogers Avenue, Brooklyn, NY",11225,40.6590721,-73.95318,Lefferts Gardens,2 - 10 years,http://www.mylgm.com/ages-3-5.html
+208,Leif Ericson Day School,K,"1037 72nd Street, Brooklyn, NY",11228,40.6256833,-74.0112375,Dyker Heights,Pre K - Grade 8,http://ledsny.org/index_files/Page744.htm
+209,Léman Manhattan Preparatory School,M,"1 Morris St, New York, NY",10004,40.7059138,-74.0141229,Battery Park City,Toddler-Grade 12,http://www.lemanmanhattan.org/
+210,Lev Bais Yaakov,K,"3574 Nostrand Ave, Brooklyn, NY",11229,40.5967576,-73.9415389,Sheepshead Bay,PreK - Grade 12,https://www.privateschoolreview.com/lev-bais-yaakov-profile
+211,LIFE-SKILLS SCHOOL (THE),Q,"2420 Parsons Blvd, Flushing, NY",11357,40.7775082,-73.8245838,Flushing,Nursery - PreK,https://lifeskillspreschool.com/
+212,Little Flower Preschool,K,"755 Eastern Pkwy, Brooklyn, NY",11213,40.6699263,-73.9433528,Crown Heights,2 - 5 years,http://littleflowerdaycare.com/
+213,Little Missionary’s Day Nursery - Sarah Curry Preschool,M,"93 St Marks Pl #1, New York, NY",10009,40.7276059,-73.9847247,East Village,2 - 4 years,https://www.lmdn.org/
+214,Little Red School House- Lower and Middle Schools,M,"272 6th Ave, New York, NY",10012,40.7292436,-74.0019871,Greenwich Village,4 years- Grade 8,http://www.lrei.org/
+215,Luria Academy,K,"238 St Marks Ave, Brooklyn, NY",11238,40.6781754,-73.9680806,Prospect Heights,2 - Grade 8,http://www.luria-academy.org/
+216,Lutheran Elementary School,K,"440 Ovington Ave, Brooklyn, NY",11209,40.6329682,-74.0228055,Bay Ridge,PreK - Grade 8,http://www.lesbayridge.com/
+217,Lycee Francais de New York,M,"505 E 75th St, New York, NY",10021,40.7688568,-73.9515269,Upper East Side,PreK-Grade 12,http://www.lfny.org/
+218,Lyceum Kennedy,M,"225 E 43rd St, New York, NY",10017,40.7510056,-73.9723967,East 40s and 50s,PreK - Grade 11,http://www.lyceumkennedy.org/
+219,"Madison Playgroup, The",M,"226 E 60th St, New York, NY",10022,40.7615567,-73.9651074,Upper East Side,2-3 years,http://www.madisonplaygroup.com/
+220,Madison Avenue Presbyterian Day School,M,"921 Madison Ave, New York, NY",10021,40.7724954,-73.964499,Upper East Side,Toddlers-K,http://www.mapc.com/nursery/overview
+221,Manhattan Christian Academy,M,"401 W 205th Street, New York, NY",10034,40.8627202,-73.9181167,Inwood-Washington Heights,3 - 5 years,http://mcaearlyed.org/
+222,Manhattan Country School,M,"150 W 85th St, New York, NY",10024,40.7864425,-73.9746925,Upper East Side,PreK - Grade 8,http://www.manhattancountryschool.org/
+223,Manhattan Day School,M,"310 W 75th St, New York, NY",10023,40.7819094,-73.9840589,Upper West Side,PreK - Grade 8,https://www.mdsweb.org/page
+224,Manhattan Jewish Montessori,M,"336 East 53rd Street #1, New York, NY",10022,40.7560254,-73.9657618,Midtown East,2 - 4 years,https://www.manhattanjewishmontessori.com/
+225,Maryel Preschool,M,"28 E 35th St, New York, NY",10016,40.7479601,-73.9818666,Murray Hill,2 - 5 years,maryelinternationalpreschool.org
+226,Marymount School of New York,M,"1026 5th Ave, New York, NY",10028,40.7799242,-73.9612618,Upper East Side,PreK - Grade 12,http://marymountnyc.org/
+227,Mary Queen of Heaven Catholic Academy,K,"1326 E 57th St, Brooklyn, NY",11234,40.6209972,-73.920505,Flatlands,3 - Grade 8,https://mqhca.org/
+228,Mazel Day School,K,"2901 Brighton 6th Street, Brooklyn NY",11235,40.5812257,-73.9625475,Brighton Beach,Pre K ,https://www.mazeldayschool.com/
+229,Merricat's Castle School,M,"316 E 88th St, New York, NY",10128,40.7783133,-73.9495293,Upper East Side,2 - 6 years,http://www.merricats.org/
+230,Metropolitan Montessori School,M,"325 W 85th St, New York, NY",10024,40.7887046,-73.9790773,Upper West Side,Pre K- Grade 6,http://www.mmsny.org/
+231,Midwood Catholic Academy,K,"1501 Hendrickson St, Brooklyn, NY",11234,40.6203311,-73.9353851,Midwood,3 - Grade 8,https://midwoodcatholicacademy.org/pre-k/
+232,MIRAJ ISLAMIC SCHOOL,R,"307 Victory Blvd, Staten Island, NY",10301,40.6348453,-74.0859584,Staten Island,PreK - Grade 8,http://www.mirajschool.org/
+233,Mirrer Yeshiva Elementary School,K,"1791 Ocean Pkwy, Brooklyn, NY",11223,40.6050608,-73.9660197,Sheepshead Bay,Pre K - Grade 8,https://www.niche.com/k12/mirrer-yeshiva-educational-institute-brooklyn-ny/
+234,Mss Francine Day School II,X,"2169 Grand Concourse, Bronx, NY",10453,40.8551521,-73.9019262,Fordham Heights,Nursery - PreK,https://www.missfrancineschool.com/?_rdr
+235,Montclare Children's School,M,"747 Amsterdam Ave, New York, NY",10025,40.7942603,-73.9698551,Upper West Side,2-4 year olds,http://www.montclareschool.org/
+236,The Montessori School of New York International,M,"347 E 55th St, New York, NY",10022,40.7575121,-73.9645501,East 40s and 50s,2-13 years,http://montessorischoolny.com/
+237,The Montessori School of Manhattan,M,"2 Gold St, New York, NY",10038,40.7074723,-74.0068304,Tribeca,2-6 years,https://www.montessorimanhattan.com/Contact_Us?rc=1
+238,Morningside Montessori School,M,"251 W 100th St #6, New York, NY",10025,40.7978634,-73.9709274,Upper West Side,2-5 years,http://www.morningsidemontessori.org/
+239,Mt. Carmel-Holy Rosary School,M,"371 Pleasant Avenue, New York, NY",10035,40.7973939,-73.9317086,East Harlem,3 - 5 years,https://www.mtcarmelholyrosary.org/
+240,Mt. Moriah Christian Academy,K,"1149 Eastern Parkway, Brooklyn NY",11213,40.6691711,-73.9301726,Crown Heights,Pre K - Grade 8,https://www.mtmoriahchristianacademy.com/
+241,MUSLIM CENTER JUNIOR HIGH SCHOOL,Q,"137-58 Geranium Ave, Flushing, NY",11355,40.7508431,-73.8204482,Flushing,PreK - Grade 8,http://www.muslimcenterschool.org/
+242,My Little Village Preschool,M,"383 Grand St, New York, NY",10002,40.7156728,-73.9883118,East Village,2 - 5 years,https://www.mylittlevillagepreschool.com/
+243,New Amsterdam School,M,"62 AVE B, New York, NY",10009,40.7237297,-73.9826471,East Village,2.9 - 6 years,https://www.newamsterdamschool.org/early-childhood/
+245,NEW DORP CHRISTIAN ACADEMY,R,"259 Rose Ave, Staten Island, NY",10306,40.5715611,-74.1147195,Staten Island,PreK - Grade 8,https://www.newdorpchristianacademy.com/
+246,New Grace Center,K,"650 Livonia Ave, Brooklyn, NY",11207,40.6647459,-73.8927625,East New York,Pre K - Grade 8,http://www.newgracecenter.com/
+247,New Life in Christ,K,"814 Marcy Avenue, Brooklyn, NY",11216,40.6857063,-73.9475317,Bedford-Stuyvesant,2 - 5 years,http://www.newlifeinchristministry.org/
+248,New Vistas Academy,K,"3321 Glenwood Rd, Brooklyn, NY",11210,40.6344731,-73.9441335,East Flatbush,Pre K - Grade 12,http://www.newvistasacademy.org/
+249,Nord Anglia International School,M,"44 E 2nd St, New York, NY",10003,40.7249246,-73.989775,East Village,2 - 5 years,https://www.nordangliaeducation.com/our-schools/new-york
+250,NOTRE DAME ACADEMY ELEM SCHOOL,R,"78 Howard Ave, Staten Island, NY",10301,40.6287646,-74.0894123,Staten Island,PreK - Grade 8,https://es.notredameacademy.org/
+251,Oakdale Academy,R,"366 Oakdale St, Staten Island, NY",10312,40.541064,-74.162496,Staten Island,1 mo. - 5 years,http://oakdaleacademy.net/
+252,Olivet Academy,M,"6 BARCLAY ST, New York, NY",10007,40.7122441,-74.0091664,Tribeca,Pre K- Grade 6,http://olivetacademy.org/pyp.htm
+253,Open House Nursery School,K,"318 Warren St # A, Brooklyn, NY",11201,40.6855144,-73.9919959,Cobble Hill,2-6 years,http://openhousekids.org/
+254,OUR LADY OF FATIMA SCHOOL,Q,"25-38 80th St, Jackson Heights, NY",11372,40.7615298,-73.8886283,Jackson Heights,Nursery - Grade 8,http://www.ourladyoffatimaschool.org/home.html
+255,OUR LADY OF GOOD COUNSEL SCHOOL,R,"42 Austin Pl, Staten Island, NY",10304,40.6310735,-74.0863714,Staten Island,PreK - Grade 8,http://www.goodcounselsch.org/
+256,Our Lady of Grace Catholic Academy,K,"158-20 101 Street, Howard Beach, NY",11414,40.6612215,-73.8330352,Howard Beach,Pre K - Grade 8,https://olgcahb.org/
+257,Our Lady of Guadalupe Catholic Academy,K,"1514 72nd St, Brooklyn, NY",11228,40.6190204,-74.0010486,Bensonhurst,Pre K - Grade 8,https://olgacademy.net/
+258,OUR LADY OF HOPE CATHOLIC ACADEMY,Q,"61-21 71st St, Middle Village, NY",11379,40.7211197,-73.886699,Middle Village,PreK3 - Grade 8,https://olhca.org/
+259,Our Lady of Lourdes School,M,"468 West 143rd St, New York, NY",10031,40.8235395,-73.9481517,Hamilton Heights,3 - 5 years,http://ollnyc.org/academics/private-pre-k/
+260,Our Lady of Perpetual Help Catholic Academy,Q,"111-10 115th St, Jamaica, NY",11420,40.6790213,-73.8248729,South Ozone Park,Pre K - Grade 8,https://olphca.org/
+261,Our Lady of Pompeii,M,"240 Bleecker St, New York, NY",10014,40.7307157,-74.0029741,Greenwich Village,PreK-Grade 8,http://www.ladyofpompeii.org/
+262,Our Lady of Refuge School,X,"2708 Briggs Avenue, Bronx, NY",10458,40.8665794,-73.8912007,Fordham Manor,PreK - Grade 8,https://olrbronx.com/
+263,OUR LADY STAR OF THE SEA SCHOOL,R,"5411 Amboy Rd, Staten Island, NY",10312,40.5327889,-74.1912425,Staten Island,PreK - Grade 8,https://www.olss-si.org/
+264,Our Lady of Trust Catholic Academy,K,"1696 Canarsie Road, Brooklyn, NY",11236,40.6313061,-73.8908332,Canarsie,3 - Grade 8,https://ourladyoftrustca.org/
+265,Our Lady Queen of Angels,M,"232 E 113th St, New York, NY",10029,40.795372,-73.9401642,Harlem,Pre K ,http://www.olqaeastharlem.org/student-life/academic-experience/early-childhood-program/
+266,OUR LADY'S CATHOLIC ACADEMY,Q,"125-18 Rockaway Blvd, South Ozone Park, NY",11420,40.6749759,-73.8119929,South Ozone Park,,https://olcacademy.net/
+267,Packer Collegiate Institute,K,"170 Joralemon St, Brooklyn, NY",11201,40.6925125,-73.9923231,Brooklyn Heights,3-18 years,http://www.packer.edu/
+268,Park Children’s Day School,M,"4 W 76th St, New York, NY",10023,40.7788724,-73.9747613,Upper West Side,2-5 years,http://www.parkchildrensdayschool.org/
+269,Park Avenue Methodist Day School,M,"106 East 86th St, New York, NY",10028,40.7797442,-73.9568766,Upper East Side,3 - 5 years,http://pamdayschool.org/
+270,Park East Day School,M,"164 E 68th St, New York, NY",10065,40.7673102,-73.9633052,Upper East Side,2 years-Grade 8,http://www.parkeastdayschool.org/
+271,Park Avenue Synagogue Early Childhood Center,M,"50 E 87th St, New York, NY",10128,40.7811222,-73.9578868,Upper East Side,2.6-5 years,https://pasyn.org/lifelong-learning/early-childhood-center
+272,Park Preschool,M,"275 Greenwich St #8, New York, NY",10007,40.7151648,-74.010962,Tribeca,2-5 years,http://www.theparkpreschool.org/
+273,Parkway School,K,"5555 Kings Highway, Brooklyn , New York",11203,40.646344,-73.9246649,Flatbush,PreK - Grade 8,http://www.parkwayschool.org/
+274,People's Daycare & Elementary School,K,"2 Van Sinderen Ave, Brooklyn, NY",11207,40.6773416,-73.9034774,Bedford-Stuyvesant,Pre K - Grade 8,https://www.niche.com/k12/peoples-elementary-school-new-york-city-ny-a1101707/
+275,Pine Street School,M,"25 Pine Street, New York, NY",10005,40.7070441,-74.0097309,Tribeca,,
+276,Plymouth Church School,K,"75 Hicks St, Brooklyn, NY",11201,40.6993529,-73.9937004,Brooklyn Heights,2 - 6 years,http://www.plymouthchurch.org/the-school/
+277,Poly Prep Country Day School,K,"50 Prospect Park West, Brooklyn, NY",11215,40.6695022,-73.9734068,Park Slope,3 years-Grade 12,https://www.polyprep.org/page
+278,Preschool of America,M,"1190 Park Ave, New York, NY",10028,40.7850247,-73.9540615,Upper East Side,Preschool/Pre-K,http://www.preschoolofamerica.us/visit_a_school.html
+279,Preschool of America,M,"1501 Lexington Ave, New York, NY",10128,40.78634,-73.9504237,Upper East Side,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+280,Preschool of America,M,"101 West End Ave, New York, NY",10023,40.7749033,-73.9882882,Upper West Side,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+281,Preschool of America,M,"2109 Broadway, New York, NY",10023,40.7801955,-73.9822322,Upper West Side - Ansonia,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+282,Preschool of America,M,"25 Tudor City Place, New York, NY",10017,40.7486765,-73.9705371,Midtown East,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+283,Preschool of America,M,"345 42nd street, New York, NY",10036,40.7582712,-73.9914967,Midtown West,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+284,Preschool of America,M,"600 6 Ave, New York, NY",10011,40.7394466,-73.9950692,Chelsea,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+285,Preschool of America,M,"25 Market Street, New York, NY",10002,40.712797,-73.9948023,Downtown,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+286,Preschool of America,M,"46 Market Street, New York, NY",10002,40.7121104,-73.9941825,Downtown,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+287,Preschool of America,M,"2 South End Avenue, New York, NY",10282,40.707977,-74.0173492,Battery Park City,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+288,Preschool of America,Q,"112-33 Queens Blvd, Forest Hills, NY",11375,40.7182958,-73.8359332,Forest Hills,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+289,Preschool of America,Q,"186-01 73 Ave, Fresh Meadows, NY",11366,40.7328942,-73.784773,Fresh Meadows,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+290,Preschool of America,Q,"83-38 Cornish Ave, Elmhurst, NY",11373,40.74068,-73.8802892,Elmhurst,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+291,Preschool of America,Q,"63-47 Booth Street, Rego Park, NY",11347,40.7290304,-73.8637297,Rego Park,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+292,Preschool of America,Q,"42-31 Colden Street, Flushing, NY",11355,40.753896,-73.8261461,Flushing,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+293,Preschool of America,Q,"133-32 41st Road, Flushing, NY",11355,40.7568336,-73.8300748,Flushing,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+294,Preschool of America,K,"382 Baltic Street, Brooklyn, NY",11201,40.6839887,-73.9900856,Cobble Hill,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+295,Preschool of America,K,"859 60th Street, Brooklyn, NY",11220,40.6347356,-74.0078532,Bay Ridge,Preschool/Pre-K,http://www.preschoolofamerica.us/about-us.html
+296,Preschool of the Arts,M,"121 W 19th St, New York, NY",10011,40.741057,-73.9955827,Chelsea,1 - 5 years,https://www.nycpreschool.org/
+297,Preschool of the Arts,M,"40 W 22nd St, New York, NY",10010,40.7415598,-73.9923231,Flatiron District,1 - 5 years,https://www.nycpreschool.org/
+298,Preschool of the Arts,M,"201 E 6th St, New York, NY",10003,40.7283387,-73.990407,East Village,1 - 5 years,https://www.nycpreschool.org/
+299,Preschool of the Arts,M,"337 2nd Ave, New York, NY",10003,40.7358124,-73.9826571,Gramercy Park,1 - 5 years,https://www.nycpreschool.org/
+300,Preschool of the Arts,M,"207 Thompson St, New York, NY",10012,40.7287744,-73.9994278,Greenwich Village,1 - 5 years,https://www.nycpreschool.org/
+301,PROMISE CHRISTIAN ACADEMY,Q,"130-30 31st Ave, Flushing, NY",11354,40.7698272,-73.8390576,Flushing,PreK3 - Grade 8,https://www.pcanyc.org/
+302,Prospect Park Yeshiva School,K,"1784 E 17th St, Brooklyn, NY",11229,40.6061728,-73.9566011,Madison,Pre K - Grade 12,http://bloppy.org/pre_school.html
+303,Purple Circle Early Childhood Program,M,"251 W 100th St, New York, NY",10025,40.7978634,-73.9709274,Upper West Side,2-6 years,http://www.purple-circle.org/
+304,Queen of the Rosary Catholic Academy,K,"1 Catherine Street, Brooklyn, NY",11211,40.7128203,-73.9372645,Williamsburg,3 - Grade 8,https://queenoftherosarybrooklyn.org/
+305,Ramaz School,M,"125 E 85th St, New York, NY",10028,40.7791484,-73.9563485,Upper East Side,3 - 5 years,https://www.ramaz.org/page.cfm?p=507
+306,Raven’s School,K,"1102 E 92nd St, Brooklyn, NY",11236,40.6422876,-73.9064275,Canarsie,Pre K- Grade 6,https://www.facebook.com/ravensschool/
+307,RAZI SCHOOL,Q,"55-11 Queens Blvd, Woodside, NY",11377,40.7425712,-73.9096197,Woodside,PreK - Grade 12,http://www.razischool.org/
+308,Red Balloon Day Care Center,M,"560 Riverside Dr, New York, NY",10027,40.8168801,-73.9601368,Morningside Heights,2-5 years,http://www.redballoonlearningcenter.org/
+309,Renanim Preschool and Nursery School - Manhattan,M,"336 E 61st St, New York, NY",10022,40.7609502,-73.9618588,Upper East Side,1.6 - 6 years,renanimpreschool.com
+310,Renanim Preschool and Nursery School - Bronx,X,"2975 Independence Ave., Riverdale, NY",10463,40.8826778,-73.9181439,Riverdale BX,1.6 - 6 years,http://www.renanimmanhattanpreschool.com/riverdale/child-care-about-us
+311,Renanim Preschool and Nursery School - Briarwood,Q,"41-29 84th Drive, Briarwood, NY",11435,40.7119453,-73.8108277,Briarwood,1.6 - 6 years,http://www.renanimmanhattanpreschool.com/briarwood/
+312,Resurrection Episcopal Day School,M,"119 E 74th St, New York, NY",10021,40.772273,-73.9619139,Upper East Side,2 years 9 months-6 years,http://www.redsny.org/
+313,Rivendell School,K,"277 3rd Ave, Brooklyn, NY",11215,40.6774198,-73.985802,Park Slope,2 - 5 years,https://www.rivendellnyc.org/about-rivendell-preschool/
+314,Riverdale Country School,X,"5250 Fieldston Rd, Bronx, NY",10471,40.8996639,-73.9006248,Riverdale/Kingsbridge,PreK-Grade 12,http://www.riverdale.edu/
+315,River Park Nursery School,M,"711 Amsterdam Ave, New York, NY",10025,40.7929701,-73.9708775,Upper West Side,2 - 5 years,riverparknurseryschool.com
+316,River School,M,"75 West End Ave, New York, NY",10023,40.7817682,-73.9830494,Upper West Side,8 weeks-5 years,http://www.theriverschool.com/
+317,Riverside Church Weekday School,M,"490 Riverside Drive, New York, NY",10027,40.8118356,-73.9630243,Morningside Heights,2 - 5 years,https://www.wdsnyc.org/
+318,Riverside Montessori School,M,"202 Riverside Drive, New York, NY",10025,40.7936868,-73.9761388,Upper West Side,2 years 9 months-5 years,http://www.twinparks.org/riverside/overview-and-admissions/
+319,Rockefeller University Child and Family Center,M,"1230 York Ave, New York, NY",10065,40.7632352,-73.9559157,Upper East Side,3 months-5 years,https://www.rockefeller.edu/child-family-center/
+320,Rodeph Sholom School,M,"10 W 84th St, New York, NY",10024,40.7841385,-73.9711685,Upper West Side,Nursery-Grade 8,http://www.rodephsholomschool.org
+321,Roosevelt Island Day Nursery,M,"4 River Rd, New York, NY",10044,40.7643703,-73.9480598,Roosevelt Island,3 months-5 years,http://ridn.org/
+322,ROSEDALE CHILD DEVELOPMENT CENTER,Q,"133-55 242nd St, Rosedale, NY",11422,40.673372,-73.7316759,Rosedale,PreK - Grade 8,https://www.rosedalechristianschool.com/
+323,Rudolf Steiner School,M,"15 E 79th St, New York, NY",10075,40.7768607,-73.9627771,Upper East Side,Nursery-Grade 12,http://www.steiner.edu/
+324,Sacred Heart of Jesus School,M,"456 W 52nd St, New York, NY",10019,40.7655272,-73.99028,Midtown,PreK-Grade 8,http://www.shjsnyc.org/
+325,Saint Albans School,M,"317 E 50th St, New York, NY",10022,40.754773,-73.96756,East 40s and 50s,PreK-Grade 4,http://www.saintalbansnyc.com/
+326,Saint David's School,M,"12 E 89th St, New York, NY",10128,40.7828717,-73.9582541,Upper East Side,PreK-Grade 8,http://www.saintdavids.org/
+327,SAINT MARGARET CATHOLIC ACADEMY,Q,"66-10 80th St, Middle Village, NY",11379,40.7157357,-73.8724764,Middle Village,PreK - Grade 8,http://stmargaretschoolmv.org/index.php
+328,Salanter Akiba Riverdale Academy,X,"655 W 254th St, Riverdale, NY",10471,40.9038107,-73.9111814,Riverdale,2 - 5 years,https://www.saracademy.org/
+329,Salve Regina Catholic Academy,K,"237 Jerome Street, Brooklyn, NY",11207,40.6759878,-73.8870665,East New York,Nursery- Grade 8,https://srca.org/
+330,"Science, Language & Arts International School",K,"132 4th Pl, Brooklyn, NY",11231,40.6773496,-73.996983,Carroll Gardens,Nursery to Grade 8,https://slaschool.org/
+331,Shaare Torah Preschool,K,"1680 Coney Island Ave, Brooklyn, NY",11230,40.6163142,-73.9639939,Midwood,Pre K - Grade 12,http://www.yeshivatshaaretorah.com/preschool-division/
+332,Shalsheles Bais Yaakov,K,"1681 42nd St, Brooklyn, NY",11204,40.6337178,-73.9789968,Borough Park,Pre K - Grade 12,http://shalshelesbyed.wixsite.com/shalshelesbaisyaakov
+333,Shulamith School for Girls of Brooklyn,K,"60 West End Ave, Brooklyn, NY",11235,40.5804864,-73.9539377,Brighton Beach,Nursery to Grade 8,https://www.shulamithofbrooklyn.org/
+334,Small World Preschool,R,"144 Bloomingdale Rd, Staten Island, NY",10309,40.5276222,-74.2166944,Staten Island,2-4 years,
+335,Stephen Wise Free Synagogue Early Childhood Center,M,"30 W 68th St, New York, NY",10023,40.7739657,-73.9791921,Upper West Side,2 - 5 years,ecc.swfs.org
+336,Staten Island Academy,R,"715 Todt Hill Rd, Staten Island, NY",10304,40.5949502,-74.10936,Staten Island,3 - 5 years,https://www.statenislandacademy.org/academics/pre-k-through-12-overview
+337,ST ANDREW AVELLINO CATHOLIC ACADEMY,Q,"35-50 158th St, Flushing, NY",11358,40.7647627,-73.8076307,Flushing,Nursery - Grade 8,http://www.standrewavellinoca.com/
+338,St. Ann - The Personal School,M,"314 E 110th St, New York, NY",10029,40.7926635,-73.9397938,Upper East Side,3-5 years,https://www.stannschoolnyc.org/early-childhood
+339,Saint Anne's School,K,"129 Pierrepont St, Brooklyn, NY",11201,40.6952456,-73.9921165,Brooklyn Heights,PreK-Grade 12,http://www.saintannsny.org/
+340,Saint Athanasius Catholic Academy,K,"6120 Bay Parkway, Brooklyn, NY",11204,40.6159712,-73.9798349,Mapleton,Nursery to Grade 8,https://stathanasiusacademy.org/
+341,St. Athanasius School,X,"830 Southern Blvd, Bronx, NY",10459,40.8171126,-73.8949673,Woodstock,Pre K - Grade 8,https://www.stathanasiusbronx.org/
+342,St. Bart’s Community Preschool,M,"325 Park Ave, New York, NY",10022,40.7572236,-73.9731084,East 40s and 50s,2 to 6 years,http://www.stbarts.org/preschool.asp
+343,St. Benedict School,X,"1016 Edison Avenue, Bronx, NY",10465,40.8324318,-73.8254109,Schuylerville,3 - 5 years,https://stbenedictschoolbx.org/
+344,St. Bernadette Catholic Academy,K,"1313 83rd St, Brooklyn, NY",11228,40.6154832,-74.0113293,Dyker Heights,3 - Grade 8,http://www.stbernadetteschool.org/
+345,St. Bernard Catholic Academy,K,"2030 E 69th St, Brooklyn, NY",11234,40.6196052,-73.9102224,Bergen Beach,3 - Grade 8,https://stbernardcatholicacademy.org/
+346,ST CLARE CATHOLIC ACADEMY,Q,"137-25 Brookville Blvd, Rosedale, NY",11422,40.6689463,-73.7362473,Rosedale,PreK - Grade 8,https://stclarecatholicacademy.org/
+347,ST CLARE SCHOOL,R,"151 Lindenwood Rd, Staten Island, NY",10308,40.5466759,-74.1502121,Staten Island,PreK - Grade 8,http://school.stclaresi.com/home
+348,ST DEMETRIOS GREEK AMERICAN SCHOOL,Q,"30-03 30th Dr, Astoria, NY",11102,40.7656229,-73.9231992,Astoria,PreK - Grade 12,http://www.saintdemetriosastoria.com/index2.html
+349,Saint Edmund Elementary School,K,"1902 Avenue T, Brooklyn, NY",11229,40.601233,-73.952606,Sheepshead Bay,Nursery to Grade 8,https://stedmundelem.org/
+350,Stephen Gaynor School,M,"148 West 90th Street, New York, NY",10024,40.7897905,-73.9726033,Upper West Side,,
+351,St. Ephrem Catholic Academy ,K,"924 74th Street, Brooklyn, NY",11228,40.6257482,-74.0153117,Dyker Heights,Nursery to Grade 8,https://stephremacademy.org/
+352,ST FRANCIS DE SALES CATHOLIC ACADEMY,Q,"219 Beach 129th St, Belle Harbor, NY",11694,40.5766337,-73.8487522,Belle Harbor,PreK - Grade 8,https://stfrancisacademybh.org/
+353,St. Gregory the Great Catholic Academy,Q,"244-44 87th Ave, Bellrose, NY",11426,40.7298852,-73.7217221,Bellrose,Nursery to Grade 8,https://sgtgca.org/
+354,St. Hilda's & St. Hugh's,M,"619 W 114th St, New York, NY",10025,40.8073841,-73.9659274,Morningside Heights,Toddlers-Grade 8,http://www.sthildas.org/Default.asp?bhcp=1
+355,St. Ignatius Loyola Day Nursery,M,"240 E 84th St, New York, NY",10028,40.7765701,-73.9534096,Upper East Side,2-5 years,http://ignatiusdn.org/
+356,St. Jean Baptiste Toddler Playgroup,M,"184 E 76th St, New York, NY",10021,40.7724718,-73.959448,Upper East Side,1.6 - 4 years,http://stjeanbaptisteny.org/toddler-program/
+357,ST JOAN OF ARC SCHOOL,Q,"35-27 82nd St, Jackson Heights, NY",11372,40.7508876,-73.8843685,Jackson Heights,PreK3 - Grade 8,https://www.sjaschoolny.org/
+358,ST JOHN CHRYSOSTOM SCHOOL,X,"1144 Hoe Ave, Bronx, NY",10459,40.8272863,-73.8906495,South Bronx,3 - 5 years,http://sjchrysostom.org/
+359,ST JOSEPH HILL ACADEMY ELEM SCHOOL,R,"850 Hylan Blvd, Staten Island, NY",10305,40.5996508,-74.0707229,Staten Island,Nursery - Grade 8,https://elementary.stjosephhillacademy.com/
+360,St. Joseph's School - Yorkville,M,"420 E 87th St, New York, NY",10128,40.7770657,-73.9479624,Upper East Side,PreK-Grade 8,http://www.sjsyorkville.org/
+361,St. Joseph the Worker Catholic Academy,K,"241 Prospect Park West, Brooklyn, NY",11215,40.6591603,-73.9806758,Windsor Terrace,Pre-K to Grade 8,https://sjwca.org/
+362,ST JOSEPH & THOMAS SCHOOL,R,"50 MaGuire Ave, Staten Island, NY",10309,40.5263574,-74.2110936,Staten Island,Nursery - Grade 8,https://sjstsjn.org/school
+363,St. Lucy’s School,X,"830 Mace Ave, Bronx, NY",10467,40.8628756,-73.8620758,Allerton,PreK - Grade 8,https://stlucys.org/
+364,St. Luke's School (NY),M,"487 Hudson St, New York, NY",10014,40.7325862,-74.0067038,Greenwich Village,PreK-Grade 8,http://www.stlukeschool.org/
+365,ST LUKE SCHOOL,Q,"16-01 150th Pl, Whitestone, NY",11357,40.784447,-73.8101962,Whitestone,Nursery - Grade 8,http://slswhitestone.org/
+366,St. Margaret Mary School,X,"121 E 177th St, Bronx, NY",10453,40.8498813,-73.9072313,Morris Heights,Pre K - Grade 8,https://stmargaretmaryschool.org/
+367,Saint Mark Catholic Academy,K,"2602 East 19th Street, Brooklyn, NY",11235,40.5880023,-73.9507233,Sheepshead Bay,Nursery-Grade 8,https://smcaonthebay.org/
+368,St Mark's Day School,K,"1346 President St, Brooklyn, NY",11213,40.6674658,-73.9449372,Crown Heights,Nursery to Grade 8,http://saintmarksdayschool.org/
+369,ST MATTHIAS SCHOOL,Q,"5825 Catalpa Ave, Ridgewood, NY",11385,40.7021626,-73.9024368,Ridgewood,PreK - Grade 8,http://www.stmatthiaschool.org/
+370,St Patrick Catholic Academy,K,"401 97th St, Brooklyn, NY",11209,40.6147426,-74.0312516,Bay Ridge,Nursery to Grade 8,https://stpatrickca.org/
+371,ST PETER'S PRE-K & ELEMENTARY SCHOOL,K,"105 Highland Pl, Brooklyn, NY",11208,40.6826972,-73.8811637,East New York,Pre K- Grade 6,
+372,St. Philip Neri School,X,"3031 Grand Concourse, Bronx, NY",10468,40.8739601,-73.8873421,Norwood,PreK - Grade 8,https://school.stphilipneribronx.org/
+373,St. Saviour Catholic Academy,K,"701 8th Ave, Brooklyn, NY",11215,40.6666245,-73.9781822,Park Slope,Nursery to Grade 8,https://saintsaviourcatholicacademy.org/
+374,St. Stephen of Hungary,M,"408 E 82nd St, New York, NY",10028,40.7739186,-73.9505891,Upper East Side,PreK-Grade 8,http://www.saintstephenschool.org/
+375,St. Thomas More Playgroup,M,"65 E 89th St, New York, NY",10128,40.7827268,-73.9566929,Upper East Side,2-5 years,http://stthomasmoreplaygroup.org/
+376,Stars & Knights Day School,K,"414 Utica Ave, Brooklyn, New York",11213,40.6642345,-73.9318718,Crown Heights,Pre K - Grade 8,https://www.niche.com/k12/stars--and--knights-day-school-brooklyn-ny/
+377,STATEN ISLAND ACADEMY,R,"715 Todt Hill Rd, Staten Island, NY",10304,40.5949502,-74.10936,Staten Island,Nursery - Grade 12,https://www.statenislandacademy.org/
+378,STATEN ISLAND HEBREW ACADEMY,R,"3495 Richmond Road, Staten Island, NY",10306,40.5731702,-74.1373463,Staten Island,PreK - Grade 8,http://www.sihebrewacademy.org/home.html
+379,Storefront Academy,M,"70 East 129th Street, New York, NY",10035,40.8076542,-73.9377043,Harlem,2 - 5 years,http://www.storefrontacademy.org/
+380,Storefront Academy - South Bronx,X,"423 East 138th Street, Bronx, NY",10454,40.8089129,-73.9217457,South Bronx,2 - 5 years,http://www.storefrontacademy.org/about-storefront-academy-south-bronx
+381,Studio School,M,"117 W 95th St, New York, NY",10025,40.7927088,-73.9687808,Upper West Side,PreK - Grade 8,http://www.studioschoolnyc.org/
+382,Talmud Torah of Kasho,K,"324 Penn St, Brooklyn, NY",11211,40.7060848,-73.9519105,Williamsburg,Pre K - Grade 12,https://www.niche.com/k12/talmud-torah-of-kasho-brooklyn-ny/
+383,Talmud Torah Ohel Yochanan,K,"1460 56th St, Brooklyn, NY",11219,40.6287254,-73.9927133,Borough Park,Pre K - Grade 8,https://www.niche.com/k12/talmud-torah-ohel-yochanan-brooklyn-ny/
+384,TALMUD TORAH SIACH YITZCHOK,Q,"1513 Central Ave, Far Rockaway, NY",11691,40.6054684,-73.7511984,Far Rockaway,PreK - Grade 8,https://siachyitzchok.org/
+385,Talmud Torah Tzemach Tzadik Viznitz,K,"87 Wallabout Street, Brooklyn, NY",11249,40.699703,-73.95811,Williamsburg,Pre K - Grade 3,https://www.niche.com/k12/talmud-torah-tzemach-tzadik-viznitz-brooklyn-ny/
+386,Temple Emanu-El,M,"1 E 65th St, New York, NY",10065,40.7679211,-73.969504,Upper East Side,2 years 7 months-6 years,http://www.emanuelnyc.org/simple.php/ed_early
+387,Temple Israel of the City of New York,M,"112 E 75th St, New York, NY",10021,40.7725798,-73.9618358,Upper East Side,2.4 years - PreK,http://www.templeisraelnyc.org/
+388,"Temple Shaaray Tefila, Nursery School",M,"250 E 79th St, New York, NY",10075,40.7732275,-73.9555688,Upper East Side,2.6 - 5 years,http://www.shaaraytefilanyc.org/nurseryschool_home/
+389,The Family Annex,M,"560 W 113th St #1, New York, NY",10025,40.8056538,-73.9647631,Morningside Heights,1.8 - 5 years,http://www.familyannex.org/
+390,The Medical Center Nursery School,M,"60 Haven Ave, New York, NY",10032,40.8435973,-73.9429688,Inwood-Washington Heights,2-6 years,http://www.mcns.org/
+391,The Third Street Preschool ,M,"235 E 11th St, New York, NY",10003,40.7308273,-73.9867574,East Village,2-4 years,https://www.thirdstreetmusicschool.org/lessons-classes/by-ages/early-childhood-preschool/full-day-preschool/
+392,Tomer Dvora School,K,"4500 9th Ave, Brooklyn, NY",11220,40.6425824,-73.9989341,Borough Park,Pre K - Grade 8,https://www.niche.com/k12/tomer-dvora-school-brooklyn-ny/
+393,TOOBAA ACADEMY,Q,"28-18 Steinway St-#206, Astoria, NY",11103,40.7650468,-73.9143505,Astoria,PreK - Grade 12,https://toobaa.org/
+394,TORAH ACADEMY FOR GIRLS,Q,"444 Beach 6th St, Far Rockaway, NY",11691,40.5992504,-73.739969,Far Rockaway,PreK - Grade 12,https://www.niche.com/k12/torah-academy-for-girls-far-rockaway-ny/
+395,TRUE DELIVERANCE CHRISTIAN SCHOOL,Q,"188-15 Turin Dr, Saint Albans, NY",11412,40.6935288,-73.7642876,Saint Albans,PreK - Grade 8,http://truedeliverancechristianschool.org/
+396,The Weekday School at Riverside Church,M,"490 Riverside Dr, New York, NY",10027,40.8118356,-73.9630243,Morningside Heights,2 - 5 years,http://www.theriversidechurchny.org/education/?school
+397,WELLSPRING ELEMENTARY,Q,"90-20 191st St, Hollis, NY",11423,40.7132376,-73.7696026,Hollis,PreK - Grade 7,https://wellspringmodel.com/
+398,The William Woodward Jr. Nursery School,M,"435 E 70th St, New York, NY",10021,40.7659324,-73.955058,Upper East Side,2-5 years,http://williamwoodwardns.org/
+399,WORLD HARVEST DELIVERANCE CENTER,Q,"1521 Central Ave, Far Rockaway, NY",11691,40.605291,-73.7514056,Far Rockaway,PreK - Grade 5,https://www.facebook.com/pages/World-Harvest-Deliverance-Center-Christian-Academy/1588144251416284
+400,Town House International,M,"1209 Park Ave, New York, NY",10128,40.7854537,-73.9529504,Upper East Side,2-6 years,http://www.thisny.org/
+401,Town School,M,"540 E 76th St, New York, NY",10021,40.7683865,-73.949713,Upper East Side,Nursery-Grade 8,http://www.thetownschool.org/
+402,Transfiguration School,M,"10 Confucius Plaza, New York, NY",10002,40.7146455,-73.9968088,Chinatown,3 - 5 years,https://www.transfigurationschoolnyc.org/
+403,Trevor Day School,M,"1 W 88th St, NY, NY",10024,40.786889,-73.9686648,Upper West Side,Nursery- Grade 5,http://www.trevor.org/
+404,Tribeca Community School,M,"22 Ericsson Pl, New York, NY",10013,40.7203113,-74.0074376,Tribeca - Ericsson Pl,2-5 years,http://www.tribecacommunityschool.com/
+405,Tribeca Community School,M,"124 Hudson Street, New York, NY",10013,40.72032,-74.0082306,Tribeca - Hudson St,2-5 years,http://www.tribecacommunityschool.com/
+406,Trilok School,K,"143 Waverly Ave, Brooklyn, NY",11205,40.69381,-73.9677132,Williamsburg,Pre-K - Grade 8,http://www.trilokschool.org/program/preschool/
+407,Trinity Preschool,M,"50 Park Pl, New York, NY",10007,40.7132986,-74.0101138,Battery Park City,6 months-5 years,http://www.isaagny.org/school_directory/index.aspx?LinkID=22455
+408,University Plaza  Nursery School,M,"110 Bleecker St, New York, NY",10012,40.7267143,-73.9985965,Greenwich Village,2 - 5 years,https://www.universityplazanursery.org/
+409,Village Preschool Center,M,"136 W 10th St, New York, NY",10014,40.734457,-74.0004951,Greenwich Village,2.5-4.5 years,http://www.villagepreschoolcenter.com/wp/index.php
+410,Visitation Academy,K,"8902 Ridge Blvd., Brooklyn, NY",11209,40.6214272,-74.0358417,Bay Ridge,PreK - Grade 8,http://www.visitationacademy.net/
+411,WALK IN LOVE CHRISTIAN ACADEMY ,Q,"215-32 Jamaica Ave, Queens Village, NY",11428,40.7170709,-73.7391475,Queens Village,PreK - Grade 12,https://www.walkinlovechristianacademy.org/
+412,Washington Market School - Hudson St.,M,"55 Hudson Street, New York, NY",10013,40.7177088,-74.0092572,Tribeca,2-6 years,http://www.washingtonmarketschool.org/
+413,Washington Market School - Duane St.,M,"134 Duane Street, New York, NY",10013,40.7159806,-74.0075879,Tribeca,2-6 years,http://www.washingtonmarketschool.org/
+414,West Side Montessori,M,"309 W 92nd St, New York, NY",10025,40.7930621,-73.9755419,Upper West Side,2.1-6 years,http://www.wsmsnyc.org/
+415,West Village Nursery School,M,"73 Horatio St, New York, NY",10014,40.7388979,-74.0071747,West Village,2-5 years,http://www.westvillagenurseryschool.org/
+416,Williamsburg Montessori School,K,"450 Kent Ave, Brooklyn, NY",11249,40.708796,-73.9687796,Williamsburg,Nursery - PreK,https://williamsburg-montessori.org/
+417,The Williamsburg Neighborhood Nursery School,K,"54 S 2nd St, Brooklyn, NY",11249,40.7142522,-73.9658766,Williamsburg,2 - 4 years,https://www.wnns.org/
+418,Williamsburg Northside School,K,"299 N 7th St, Brooklyn, NY",11211,40.7149199,-73.9528471,Williamsburg,2 - Grade 8,https://www.willnorth.org/
+419,Windmill Montessori School,K,"1317 Avenue T, Brooklyn, NY",11229,40.6011357,-73.9580475,Sheepshead Bay,Pre K - Grade 8,http://www.windmont.org/
+420,Yeshiva Ahavas Torah,K,"2961 Nostrand Avenue, Brooklyn, NY",11234,40.6121821,-73.9437661,Marine Park,Pre K - Grade 8,http://yahavastorah.com/
+421,YESHIVA DARCHEI TORAH,Q,"257 Beach 17 St, Far Rockaway, NY",11691,40.5968836,-73.751601,Far Rockaway,PreK - Grade 12,www.darchei.org/
+422,YESHIVA HAR TORAH,Q,"250-10 Grand Central Pkw, Bellerose, NY",11426,40.7523681,-73.7238922,Bellerose,PreK - Grade 8,http://www.hartorah.org/
+423,Yeshiva Ketana of Bensonhurst,K,"2025 67th Street, Brooklyn, NY",11204,40.6150613,-73.986102,Bensonhurst,Nursery- Grade 8,http://www.rabbihorowitz.com/PYes/SchoolDetails.cfm?School_ID=660
+424,Yeshivat Lev Torah,K,"3300 Kings Highway, Brooklyn, NY",11234,40.6184228,-73.94209,Sheepshead Bay,Pre K - Grade 8,http://www.levtorah.org/
+425,YESHIVA & MESIVTA TORAH VODAATH,K,"425 East 9th Street, Brooklyn, NY",11218,40.6381105,-73.9693203,Kensington,Nursery (1.9) through 12,https://www.torahvodaath.org/
+426,YESHIVA & MESIVTA TORAH VODAATH - Preschool Satellite,K,"1192 E 31st St, Brooklyn, NY",11210,40.6222676,-73.9453275,Marine Park,Pre K ,https://www.torahvodaath.org/
+427,YESHIVA OF CENTRAL QUEENS,Q,"147-37 70th Rd, Flushing, NY",11367,40.729914,-73.8192534,Flushing,Nursery - Grade 8,http://www.ycqweb.com/index.htm
+428,Yeshiva of Flatbush,K,"919 E 10TH STREET, BROOKLYN, NY",11230,40.626692,-73.966257,Flatbush,Pre K - Grade 12,http://www.flatbush.org/content.aspx?rec_id=100062
+429,YESHIVA RLKTI PRIMARY,Q,"80-11 210th St, Jamaica, NY",11427,40.7329402,-73.7603371,Jamaica,PreK - Grade 8,https://www.niche.com/k12/yeshiva-primary-junior-high-school-oakland-gardens-ny/
+430,YESHIVA SHA'AREI ZION OHEL BRACHA,Q,"75-24 Grand Central Pkwy, Forest Hills, NY",11375,40.7188646,-73.8347845,Forest Hills,PreK - Grade 6,
+431,Yeshiva Sharei Hayosher,K,"1334 Ocean Pkwy, Brooklyn, NY",11230,40.6161135,-73.9695269,Midwood,Nursery - K,https://www.facebook.com/Yeshiva-Sharei-Hayosher-181394158627661/
+432,YESHIVAT OHR HAIIM,Q,"86-06 135th St, Richmond Hill, NY",11418,40.7055767,-73.8207238,Richmond Hill,PreK - Grade 8,https://www.niche.com/k12/yeshivat-ohr-haiim-richmond-hill-ny/
+433,Yeshiva Toldos Yesuscher,K,"1531 63 STREET, BROOKLYN, NY",11219,40.6241331,-73.9949257,Mapleton,2 - 5 years,https://a816-healthpsi.nyc.gov/ChildCare/WDetail.do?linkPK=DC34746
+434,Yeshiva Torah Temimah,K,"507 Ocean Pkwy, Brooklyn, NY",11218,40.6359816,-73.9720294,Flatbush,Nursery (1.9) through 12,http://www.ytt.edu
+435,Yeshiva Toras Emes Kaminetz Elementary School,K,"1904 Avenue N, Brooklyn, NY",11230,40.615765,-73.955499,Midwood,Pre K - Grade 8,https://www.facebook.com/pages/Yeshiva-Toras-Emes-Kaminetz-Elementary-School/521030471333568
+436,York Avenue Preschool,M,"1520 York Ave, New York, NY",10028,40.7722533,-73.9493686,Upper East Side,2 - 5 years,yorkavenuepreschool.org
